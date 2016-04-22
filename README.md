@@ -33,12 +33,12 @@ If you find residual-SqueezeNet useful in your research, please consider citing 
     
 # Architecture of the residual SqueezeNet: 
 <br>
-<img src="figure/architecture2.jpg"  height="600px" />
+<img src="figure/architecture2.jpg"  height="600px" align="middle" />
 <br>
 The building block:
 <br>
 <br>
-<img src="figure/type2.jpg"  height="250px" />
+<img src="figure/type2.jpg"  height="250px" align="middle"/>
 
 
 
