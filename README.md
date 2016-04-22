@@ -36,7 +36,8 @@ If you find residual-SqueezeNet useful in your research, please consider citing 
 <img src="figure/architecture2.jpg"  height="600px" />
 <br>
 The building block:
-<img src="figure/type2.jpg"  height="400px" />
+<br>
+<img src="figure/type2.jpg"  height="300px" />
 
 
 
