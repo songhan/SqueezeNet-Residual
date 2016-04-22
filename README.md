@@ -4,9 +4,13 @@ The repo contains the residual-SqueezeNet, which is obtained by adding bypass la
 
 # Related SqueezeNet repos:
 [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
+
 [SqueezeNet-Deep-Compression](https://github.com/songhan/SqueezeNet-Deep-Compression)
+
 [SqueezeNet-Generator](https://github.com/songhan/SqueezeNet-Generator)
+
 [SqueezeNet-DSD-Training](https://github.com/songhan/SqueezeNet-DSD-Training)
+
 [SqueezeNet-Residual](https://github.com/songhan/SqueezeNet-Residual)
 
 
