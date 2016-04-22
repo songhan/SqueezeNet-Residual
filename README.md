@@ -1,8 +1,8 @@
-# Contents:
+# SqueezeNet-Residual
 
 The repo contains the residual-SqueezeNet, which is obtained by adding bypass layer to SqueezeNet_v1.0. Residual-SqueezeNet improves the top-1 accuracy of SqueezeNet by 2.9% on ImageNet without changing the model size(only 4.8MB).
 
-# Related repo and paper:
+# Related repo and paper
 [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
 
 [SqueezeNet-Deep-Compression](https://github.com/songhan/SqueezeNet-Deep-Compression)
@@ -25,17 +25,17 @@ If you find residual-SqueezeNet useful in your research, please consider citing 
     }
   
 
-# Usage:
+# Usage
 
     $CAFFE_ROOT/build/tools/caffe test --model=trainval.prototxt --weights=SqueezeNet_residual_top1_0.6038_top5_0.8250.caffemodel --iterations=1000 --gpu 0
 
-# Result:
+# Result
       
     I0422 14:07:39.810755 32299 caffe.cpp:293] accuracy_top1 = 0.603759
     I0422 14:07:39.810775 32299 caffe.cpp:293] accuracy_top5 = 0.824981
     I0422 14:07:39.810792 32299 caffe.cpp:293] loss = 1.76711 (* 1 = 1.76711 loss) 
     
-# Architecture of the residual SqueezeNet: 
+# Architecture of the residual SqueezeNet
 <br>
 <img src="figure/architecture2.jpg"  height="600px" align="middle" />
 
