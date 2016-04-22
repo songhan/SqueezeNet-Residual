@@ -4,9 +4,8 @@ The repo contains the residual-SqueezeNet, which is obtained by adding bypass la
 
 The architecture of the residual SqueezeNet: 
 <br>
-<img src="figure/architecture2.jpg"  height="1000px" />
-<br>
-<img src="figure/type2.png"  height="200px" />
+<img src="figure/architecture2.jpg"  height="600px" />
+<img src="figure/type2.png"  height="400px" />
 
 
 # Related SqueezeNet repos:
