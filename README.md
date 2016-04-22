@@ -4,7 +4,7 @@ The repo contains the residual-SqueezeNet, which is obtained by adding bypass la
 
 The architecture of the residual SqueezeNet: 
 
-![Residual SqueezeNet](figure/architecture2.jpg?raw=true width=40) ![The Building Block](figure/type2.png?raw=true  width=20)
+![Residual SqueezeNet](figure/architecture2.jpg |width=40) ![The Building Block](figure/type2.png |width=20)
 
 # Related SqueezeNet repos:
 [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
