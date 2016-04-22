@@ -3,10 +3,11 @@
 The repo contains the residual-SqueezeNet, which is obtained by adding bypass layer to SqueezeNet_v1.0. Residual-SqueezeNet improves the top-1 accuracy of SqueezeNet by 2.9% on ImageNet without changing the model size(only 4.8MB).
 
 The architecture of the residual SqueezeNet: 
-<\br>
-<img src="figure/architecture2.jpg"  height="200px" />
+<br>
+<img src="figure/architecture2.jpg"  height="1000px" />
+<br>
 <img src="figure/type2.png"  height="200px" />
-![](./figure/type2.png =250x)
+
 
 # Related SqueezeNet repos:
 [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
